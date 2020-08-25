@@ -5,3 +5,5 @@ Multiclass Classification (5 labels) by comparing and evaluating deep learning m
 
 Cleaned and prepared the data for analysis
 Choosed MLP Classifier with 94 percent accuracy
+
+See Jupyter Notebook for the analysis
